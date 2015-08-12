@@ -1,6 +1,6 @@
 /* Author: David Roman
  *
- * This application counts the letter frecuency of the letters of
+ * This application counts the letter frequency of the letters of
  * a message on a text file. It is used for cryptanalysis. For more
  * information of the application, check the User's Guide.
  */
