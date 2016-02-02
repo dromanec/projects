@@ -8,7 +8,6 @@ suitable for developers that are confortable with:
 - Command Prompt commands.
 - Setting up Environment variables.
 
-
 Note: If something is not clear or you want a more descriptive explanation about the project, feel free to 
 contact me at dromna@knox.edu. I would be more than happy to help.
 
@@ -24,6 +23,7 @@ installation and allows starting a MongoDB shell from any directory in your comp
 out the MongoDB course in the E-learning webpage Team Treehouse (teamtreehouse.com) to learn more about setting 
 up, benefits of the mentioned type of Database and how to get started.
 
+
 2.- Set Up Maven
 
 After setting up MongoDB, it is recommendable to set up the dependency manager Maven. This Java Tool allows a 
@@ -34,13 +34,13 @@ adding them to the project's classpath. The following links describe how to set 
 http://www.mkyong.com/maven/install-maven-on-mac-osx/
 http://maven.apache.org/install.html
 
-
 Although I think Homebrew is a great tool, their Maven install is buggy. There are a couple articles mentioning 
 how to fix this issue. Nevertheless, I think it is easier to install this tool manually. Also you should check out 
 the following links to learn how to use Maven:
 
 https://spring.io/guides/gs/maven/#scratch
 https://www.youtube.com/playlist?list=PL92E89440B7BFD0F6
+
 
 3.- Understanding MongoDB Java Driver
 
